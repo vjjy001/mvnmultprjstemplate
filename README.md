@@ -1,6 +1,8 @@
 # Maven with multiple project
 
-The example for for three project running by maven which are app,core and web.
+The project is to shown how to using maven to configure multiple project.
+
+In these example there are three projects which are app, core and web.
 
 The app project as root project will build both for core and web project.
 
