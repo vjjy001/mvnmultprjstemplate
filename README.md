@@ -1,6 +1,6 @@
 # Maven with multiple project
 
-The project is to shown how to using maven to configure multiple project.
+The project is to show how to using maven to configure multiple project.
 
 In these example there are three projects which are app, core and web.
 
